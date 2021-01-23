@@ -8,10 +8,10 @@
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.iconscout.com/icon/free/png-512/twitter-1865886-1581902.png" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://image.flaticon.com/icons/png/512/174/174857.png" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://i.pinimg.com/originals/9b/97/87/9b9787fb5209b99c3207554a341e3f32.png" />][instagram]
-[<img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/telegram-512.png" />][Telegram]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/25/25660.png" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-media-logos-flat-colorful/2048/5296_-_LinkedIn-512.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-2-512.png" />][instagram]
+[<img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://i.pinimg.com/originals/99/f0/3f/99f03fdee90d871d3d1e718c82feb8be.png" />][Telegram]
 
 <br />
 
