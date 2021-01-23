@@ -2,7 +2,7 @@
 ### I'm a Hardworker, Motivated , Developer and Teacher!!
  
 - 🌱 I’m Chemical Engineering (CE) at Shiraz University 
-- 👯 I’m Book Editor @kheilisabz
+- 👯 I’m Book Editor @ kheilisabz company
 
 
 ### Connect with me:
