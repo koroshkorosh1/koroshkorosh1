@@ -9,7 +9,7 @@
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/25/25660.png" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-media-logos-flat-colorful/2048/5296_-_LinkedIn-512.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn2.iconfinder.com/data/icons/font-awesome/1792/linkedin-512.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn4.iconfinder.com/data/icons/picons-social/57/38-instagram-2-512.png" />][instagram]
 [<img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://i.pinimg.com/originals/99/f0/3f/99f03fdee90d871d3d1e718c82feb8be.png" />][Telegram]
 
