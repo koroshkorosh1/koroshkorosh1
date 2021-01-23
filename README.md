@@ -40,7 +40,6 @@
 
 </details>
 
-<details>
 
 </details>
 
