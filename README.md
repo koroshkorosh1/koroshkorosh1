@@ -7,11 +7,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://img.icons8.com/dusk/64/000000/globe--v2.png" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin-2.png" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
-[<img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://img.icons8.com/fluent/48/000000/telegram-app.png" />][Telegram]
+[<img align="left" alt="codeSTACKr.com" width="28px" src="https://img.icons8.com/dusk/64/000000/globe--v2.png" />][website]
+[<img align="left" alt="codeSTACKr | Twitter" width="28px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="28px" src="https://img.icons8.com/fluent/48/000000/linkedin-2.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="28px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
+[<img align="left" alt="codeSTACKr | Telegram" width="28px" src="https://img.icons8.com/fluent/48/000000/telegram-app.png" />][Telegram]
 
 <br />
 
