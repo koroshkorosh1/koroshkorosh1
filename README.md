@@ -1,7 +1,7 @@
-# Hi there, I'm  Korosh Agha Mohammad Ghasemi 👋
+# Hi there, I'm  **Korosh** Agha Mohammad Ghasemi 👋
 ### I'm a Hardworker , Motivated , Developer and Teacher!!
  
-- 🎓 I’m Chemical Engineering (CE) at Shiraz University 
+- 🎓 I’m **Chemical Engineering** (CE) at **Shiraz University** 
 - 🏢 I’m Book Editor @ kheilisabz company
 
 
