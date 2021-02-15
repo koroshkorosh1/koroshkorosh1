@@ -1,4 +1,5 @@
-# Hi there, I'm  **Korosh** Agha Mohammad Ghasemi 👋
+
+# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm  **Korosh** Agha Mohammad Ghasemi
 ### I'm a Hardworker , Motivated , Developer and Teacher!!
  
 - 🎓 I’m **Chemical Engineering** (CE) at **Shiraz University** 
